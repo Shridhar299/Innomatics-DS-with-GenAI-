@@ -1,1 +1,1 @@
-# Innomatics-(DS with GenAI)
+# Innomatics_Internship (DS with GenAI)
